@@ -5,8 +5,6 @@ import VueSweetalert2 from 'vue-sweetalert2';
 import 'sweetalert2/dist/sweetalert2.min.css';
 import Toaster from '@meforma/vue-toaster';
 
-
-
 const app = createApp(App)
 
 app.use(VueSweetalert2);
